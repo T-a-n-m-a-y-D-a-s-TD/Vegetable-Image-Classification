@@ -1,4 +1,4 @@
-🥦 Vegetable Image Classification
+##🥦 Vegetable Image Classification
 
 This project compares two image classification techniques using the **Vegetable Image Dataset** from Kaggle. It includes:
 
