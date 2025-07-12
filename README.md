@@ -2,8 +2,8 @@
 
 This project compares two image classification techniques using the **Vegetable Image Dataset** from Kaggle. It includes:
 
-1. Handcrafted Feature Extraction + SVM**
-2. **Convolutional Neural Network (CNN)**
+1. Handcrafted Feature Extraction + SVM
+2. Convolutional Neural Network (CNN)
 
 
 📁 Dataset
