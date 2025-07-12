@@ -7,7 +7,7 @@ This project compares two image classification techniques using the Vegetable Im
 
 
 
-📁 Dataset
+# **📁 Dataset**
 
 - **Name**: [Vegetable Image Dataset](https://www.kaggle.com/datasets/misrakahmed/vegetable-image-dataset)
 - **Total Images**: 21,000
@@ -17,7 +17,7 @@ This project compares two image classification techniques using the Vegetable Im
 
 
 
-📌 Project Structure
+# **📌 Project Structure**
 
 ├── handcrafted.ipynb # Traditional ML with HOG + LBP + SVM
 ├── cnn-classification.ipynb # CNN-based deep learning classification
@@ -25,7 +25,7 @@ This project compares two image classification techniques using the Vegetable Im
 
 
 
-🧠 Method 1: Handcrafted Features + SVM
+# **🧠 Method 1: Handcrafted Features + SVM**
 
 - **Preprocessing**: Resize to 64×64, grayscale
 - **Feature Extraction**:
@@ -37,7 +37,7 @@ This project compares two image classification techniques using the Vegetable Im
 
 
 
-⚙️ Method 2: CNN-Based Deep Learning
+# **⚙️ Method 2: CNN-Based Deep Learning**
 
 - **Preprocessing**: Resize to 224×224, rescale pixels, data augmentation
 - **Model Architecture**:
@@ -49,7 +49,7 @@ This project compares two image classification techniques using the Vegetable Im
 
 
 
-📊 Comparison Summary
+# **📊 Comparison Summary**
 
 | Feature             | Handcrafted + SVM | CNN-Based Deep Learning |
 |---------------------|-------------------|--------------------------|
@@ -62,7 +62,7 @@ This project compares two image classification techniques using the Vegetable Im
 
 
 
-✅ Requirements
+# **✅ Requirements**
 
 - Python 3.8+
 - NumPy, Pandas, Matplotlib, Seaborn
@@ -71,7 +71,7 @@ This project compares two image classification techniques using the Vegetable Im
 
 
 
-▶️ How to Run
+# **▶️ How to Run**
 
 1. Clone the repo:
    - git clone https://github.com/your-username/vegetable-classification.git
@@ -86,10 +86,10 @@ Dataset must be downloaded from Kaggle and placed in the proper directory (updat
 
 
 
-📌 License
+# **📌 License**
 - This project is open source under the MIT License.
 
 
 
-🙌 Acknowledgements
+# **🙌 Acknowledgements**
 - Dataset by Ahmed Misrak on Kaggle
