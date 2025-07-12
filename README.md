@@ -74,13 +74,13 @@ This project compares two image classification techniques using the Vegetable Im
 ▶️ How to Run
 
 1. Clone the repo:
-   git clone https://github.com/your-username/vegetable-classification.git
-   cd vegetable-classification
-Run notebooks:
+   - git clone https://github.com/your-username/vegetable-classification.git
+   - cd vegetable-classification
+     
+2. Run notebooks:
+   - handcrafted.ipynb – Traditional ML
 
-handcrafted.ipynb – Traditional ML
-
-cnn-classification.ipynb – Deep Learning
+   - cnn-classification.ipynb – Deep Learning
 
 Dataset must be downloaded from Kaggle and placed in the proper directory (update path if needed).
 
