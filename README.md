@@ -87,9 +87,9 @@ Dataset must be downloaded from Kaggle and placed in the proper directory (updat
 
 
 📌 License
-This project is open source under the MIT License.
+- This project is open source under the MIT License.
 
 
 
 🙌 Acknowledgements
-Dataset by Ahmed Misrak on Kaggle
+- Dataset by Ahmed Misrak on Kaggle
